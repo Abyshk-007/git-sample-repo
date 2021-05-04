@@ -1,6 +1,7 @@
 Modified for testing
 Second modification to find the difference
 THird modification of the cloned repository
+
 ------------------------------------------------------------------------------
 
 Dear Krishna , I think 3 months notice period is too much for L1 engineers.
@@ -9,4 +10,15 @@ Dear Krishna , I think 3 months notice period is too much for L1 engineers.
  About the candidate looking for multiple option even after having offer letter from any company is the part of
  human instinct of getting higher package.....Well any human would want to earn more since he / she has invested 
 so much in their education and upgrading their skills....they invested to have better career growth.....
+
+-----------------------------------------------------------------------
+
+Three month should be applied to both employer and employee.. 
+All company they are rush to make join early but at the same side they want 3 month notice..
+ It should have freedom from both end to choose the goal.. If employer want best productivity
+ they have to follow proper agile and cross cutting dependency.. 
+They are free to choose employee based on their requirements and fit for goal... 
+Similar way employee is also free to choose the goal freely in terms of salary, technical growth... 
+At the end it should of free path to everyone grow...
+
 
