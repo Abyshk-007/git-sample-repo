@@ -1,3 +1,13 @@
 Modified for testing
 Second modification to find the difference
 THird modification of the cloned repository
+-----------------------------------------------------------------------
+
+Three month should be applied to both employer and employee.. 
+All company they are rush to make join early but at the same side they want 3 month notice..
+ It should have freedom from both end to choose the goal.. If employer want best productivity
+ they have to follow proper agile and cross cutting dependency.. 
+They are free to choose employee based on their requirements and fit for goal... 
+Similar way employee is also free to choose the goal freely in terms of salary, technical growth... 
+At the end it should of free path to everyone grow...
+
